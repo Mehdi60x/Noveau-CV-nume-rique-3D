@@ -126,6 +126,14 @@
   transform: translateZ(0);
 }
 
+.copyright {
+  text-align: center;
+  font-weight: bold;
+  background-color: #000000;
+  height:40px;
+  padding:10px;
+}
+
 @keyframes mulShdSpin {
   0%,
   100% {
